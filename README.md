@@ -1,2 +1,0 @@
-# PROJECT_EDDA
-Hellow
